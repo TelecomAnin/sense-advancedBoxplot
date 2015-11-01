@@ -1,4 +1,7 @@
 # Qlik Sense Box Plot Extension
+
+![Screenshot](https://raw.githubusercontent.com/balexbyrd/img/master/BoxPlot3.PNG)
+
 ###Tested in: Chrome on Qlik Sense 2.1.1 Server and Desktop
 ###Use Case:
 A user wants to view numeric data and associated statistics in a box plot.
