@@ -1,0 +1,9 @@
+{
+	"name" : "Box Plot",
+	"description" : "D3Plus Box Plot",
+	"icon" : "extension",
+    "preview" : "Preview.png",
+	"type" : "visualization",
+	"version": 1.0,
+	"author": "Alex Byrd"
+}
