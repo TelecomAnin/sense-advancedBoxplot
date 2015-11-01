@@ -16,6 +16,7 @@ This extension allows users to make selections and view statistics at the click 
 3. Place the dimension for which you would like the visualization drawn as the first placeholder.
 4. Place the numeric field in the second placeholder in the DIMENSION section.
 5. Place the same numeric field in the first placeholder in the MEASURES section
+
 ![Screenshot](https://raw.githubusercontent.com/balexbyrd/img/master/BoxPlot1.PNG)
 ![Screenshot](https://raw.githubusercontent.com/balexbyrd/img/master/BoxPlot2.PNG)
 
