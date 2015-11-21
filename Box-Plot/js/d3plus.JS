@@ -29996,7 +29996,7 @@ module.exports = {
 },{}],301:[function(require,module,exports){
 module.exports = {
   "accepted"   : [ Boolean ],
-  "behavior"   : d3.behavior.zoom().scaleExtent([ 1 , 1 ]).duration(0),
+  "behavior"   : d3.behavior.zoom().scaleExtent([ 1 , 1 ]),//.duration(0),
   "click"      : {
     "accepted" : [ Boolean ],
     "value"    : true

@@ -1,6 +1,6 @@
 {
 	"name" : "Box Plot",
-	"description" : "D3Plus Box Plot",
+	"description" : "Advanced Box Plot",
 	"icon" : "extension",
     "preview" : "Preview.png",
 	"type" : "visualization",
