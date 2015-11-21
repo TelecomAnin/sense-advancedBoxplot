@@ -16,12 +16,11 @@ This extension allows users to make selections and view statistics at the click 
 ###Setup:
 1. Place the Box-Plot folder in the standard Qlik Sense extension folder.
 2. Add the extension to the screen.
-3. Place the dimension for which you would like the visualization drawn as the first placeholder.
-4. Place the numeric field in the second placeholder in the DIMENSION section.
-5. Place the same numeric field in the first placeholder in the MEASURES section
+3. Place the dimension for which you would like the visualization drawn as the first DIMENSION placeholder.
+4. Place the field for which you would like each point to be calculated in the second placeholder in the DIMENSION section.
+5. Place the numeric field in the third DIMENSION section.
 
 ![Screenshot](https://raw.githubusercontent.com/balexbyrd/img/master/BoxPlot1.PNG)
-![Screenshot](https://raw.githubusercontent.com/balexbyrd/img/master/BoxPlot2.PNG)
 
 If this fails, try the demo .qvf supplied.
 
